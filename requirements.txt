@@ -1,2 +1,4 @@
 supervisor
--e git://github.com/phuslu/gevent-egg.git@master#egg=gevent
+pycrypto
+gevent
+gunicorn
